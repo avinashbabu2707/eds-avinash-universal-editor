@@ -1,6 +1,3 @@
 mountpoints:
   /: https://drive.google.com/drive/u/1/folders/15JQepQPfNaFNHzQPFk_i7dNwOb7Mp2SI?ths=true
-  /content/eds-avinash-universal-editor:
-    url: "http://localhost:4502/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+
